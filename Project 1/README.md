@@ -1,4 +1,4 @@
-# CSCE513
+# CSCE513 - Project 1
 
 Advanced Computer Architecture
 
